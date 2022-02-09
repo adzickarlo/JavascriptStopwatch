@@ -1,0 +1,100 @@
+body {
+    background-color: #f2f2f2;
+}
+
+#wrapper {
+    background-color: #ffa600;
+    height: 400px;
+    border-radius: 10px;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+    font-weight: 200;
+}
+
+#start-button {
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 300px;
+    left: 660px;
+}
+
+#start-button:hover {
+    transition: all 0.5s ease-in-out;
+    background-color: #ffffff;
+    color: #ffa600;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#stop-button {
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 300px;
+    left: 870px;
+}
+
+#stop-button:hover {
+    transition: all 0.5s ease-in-out;
+    background-color: #ffffff;
+    color: #ffa600;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#reset-button {
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 300px;
+    left: 1080px;
+}
+
+#reset-button:hover {
+    transition: all 0.5s ease-in-out;
+    background-color: #ffffff;
+    color: #ffa600;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+    padding-top: 60px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5 em;
+    font-weight: 200;
+}
+
+p {
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    font-weight: 200;
+}
